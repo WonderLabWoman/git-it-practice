@@ -1,0 +1,36 @@
+Make a new folder for your new repository:
+
+$ mkdir new-repo-folder
+
+navigate to an existing folder or the folder you just created
+
+$ cd new-repo-folder
+
+to list the files in the folder
+
+$ ls
+
+Turn Git on for a specific folder, navigate into the folder and then type
+
+$ git init
+
+to check the status of changes of a repository:
+
+$ git status
+
+to view changes to files:
+
+$ git diff
+
+to add changes to a file to be committed:
+
+$ git add filename
+
+to add all changes in all files:
+
+$ git add .
+
+to commit (and save) the changes you've added
+with a short message describing the changes:
+
+$ git commit -m "text that describes your changes"
