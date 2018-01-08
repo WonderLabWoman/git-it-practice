@@ -54,3 +54,5 @@ to pull changes from the online repository to your local repository, type:
 
 $ git pull <REMOTENAME> <BRANCHENAME>
 ( $ git pull origin master )
+
+You can also use the atom-git integration options if you work with atom as your text-editor
