@@ -35,9 +35,9 @@ with a short message describing the changes:
 
 $ git commit -m "text that describes your changes"
 
-After you have created a new repository online, you can point your local repository to it by typing:
+After you have created a new repository online (with the same name as your local repository), you can point your local repository to it by typing:
 
-$ git remote add origin https://github.com/you-on-github/your-new-repository.git
+$ git remote add origin https://github.com/you-on-github/new-repo-folder.git
 
 AFter you've done this, you can push everything you have done locally, by typing
 
